@@ -1,0 +1,30 @@
+{
+  "name": "socketpanol",
+  "version": "1.0.0",
+  "description": "Chat para ectura de codigo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janaravena/socketpanol.git"
+  },
+  "keywords": [
+    "Socket",
+    "de",
+    "lectura",
+    "de",
+    "codigos"
+  ],
+  "author": "Alejandra Aravena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janaravena/socketpanol/issues"
+  },
+  "homepage": "https://github.com/janaravena/socketpanol#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
